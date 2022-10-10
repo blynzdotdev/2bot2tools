@@ -1,0 +1,13 @@
+#YAML Ain't Markup Language
+
+token: "ODU5NTAxMzIxNDA0NDE2MDUw.YNtm-w.3bE21cGDhPzUPJal0q1_c9qo9gM" #Bot's discord token
+
+uColor: 0x33cc33 #Normal color
+eColor: 0xd4180b #Error color
+icon: "https://cravatar.eu/helmavatar/tontyer/190.png" #Embed thumbnail
+botName: "2bot" #Bot's self-reference
+prefix: "!" #Command prefix
+creator: "LihtexF" #Your name here
+status: green;watching;! - default prefix #format: status;activity;string
+#statuses: green, yellow, red, grey, null
+#activites: competing, listening, playing, streaming, watching
